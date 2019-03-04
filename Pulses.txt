@@ -1,0 +1,8 @@
+944 - CGMV Rolled Up - Data
+950 - 50% cash collection Monthwise Rolled Up  - Data
+
+959 - CGMV Rolled up monthwise - Graph
+960 - Total cash collection Monthwise Rolled up - Graph
+964 - pending receivables 
+
+Pulse number 7 CGMV Vs Cash collection
